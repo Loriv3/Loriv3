@@ -8,7 +8,6 @@ Other passions are:
 
 -Robotics
 
--Gamification
 
 <!--
 **Loriv3/Loriv3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
