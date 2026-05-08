@@ -4,7 +4,7 @@
 
 I build things at the intersection of AI and software engineering, from autonomous agents that automate real business workflows, to SLAM systems for self-driving Formula Student cars.
 
-Currently working full-time as Team Lead & Software Engineer at **Caelus S.R.L.**, while completing my Master's in Computer Science & AI at **Sapienza University of Rome**.
+Ex Team Lead & Software Engineer at **Caelus S.R.L.**, while completing my Master's in Computer Science & AI at **Sapienza University of Rome**.
 
 ---
 
