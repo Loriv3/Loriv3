@@ -34,9 +34,6 @@ Study notes from Sapienza's *Laboratory of Network Design and Configuration* cou
 - Ethernet, VLANs, inter-VLAN routing, DHCP and NAT
 - ACLs, LAN security and VPN/tunnelling concepts
 
-### [MarsOps — Distributed Automation Platform](https://github.com/Loriv3/MarsOps_Distributed_System)
-
-A containerized distributed system built around telemetry ingestion, message-based communication, real-time monitoring, and automation rules. This project reflects the software engineering skills I bring to network automation: services, observability, event-driven workflows, and testing.
 
 ---
 
