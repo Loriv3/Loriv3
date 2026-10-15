@@ -6,8 +6,6 @@
 
 I'm a software engineer transitioning toward **network engineering and service-provider networks**. I'm building hands-on labs to understand how routing, MPLS transport, VPN services, and network resilience fit together in an ISP-style architecture.
 
-My focus is on combining **networking fundamentals with software engineering**: reproducible labs, Python-based automation, and tests that verify network behavior instead of relying only on configuration files.
-
 ---
 
 ## 🌐 Featured Networking Projects
